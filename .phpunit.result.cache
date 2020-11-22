@@ -1,0 +1,1 @@
+C:37:"PHPUnit\Runner\DefaultTestResultCache":166:{a:2:{s:7:"defects";a:1:{s:29:"mathTest::testCheckForNumbers";i:5;}s:5:"times";a:2:{s:20:"mathTest::testMedian";d:0.006;s:29:"mathTest::testCheckForNumbers";d:0.002;}}}
