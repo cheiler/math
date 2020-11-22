@@ -4,7 +4,6 @@
 class math
 {
 
-
     public function __construct()
     {
         return true;
@@ -99,6 +98,21 @@ class math
         } else {
             return $miles;
         }
+    }
+
+    public function is_numbers(...$values){
+        foreach($values as $value){
+            if(!is_integer($value) && !is_float($value)){
+                return false;
+            }
+        }
+        return true;
+    }
+
+    public function pythagoras($a, $b){
+
+
+
     }
 
 

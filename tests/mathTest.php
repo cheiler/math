@@ -97,4 +97,13 @@ class mathTest extends TestCase
         $this->assertSame(5.5, $tmp);
     }
 
+    public function testCheckForNumbers(): void
+    {
+        $math = new math();
+        $this->assertTrue($math->is_numbers(4,7.34,7.1234));
+        $this->assertFalse($math->is_numbers(3,"2", 4.9));
+
+    }
+
+
 }
