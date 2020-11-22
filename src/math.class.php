@@ -110,8 +110,10 @@ class math
     }
 
     public function pythagoras($a, $b){
-
-
+        if($this->is_numbers($a, $b)){
+            return sqrt($a*$a + $b*$b);
+        }
+        return null;
 
     }
 

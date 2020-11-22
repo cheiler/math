@@ -19,16 +19,14 @@
     <select>
       <path>
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="BRANCH:origin/master" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:pythagoras" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </select>
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b4d0d69c-8f8b-477d-8d9d-2021ac2a71cf" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/src/math.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/math.class.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/mathTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/tests/mathTest.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -141,7 +139,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="origin/master" />
+                        <option value="pythagoras" />
                       </list>
                     </value>
                   </entry>
