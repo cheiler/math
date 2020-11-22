@@ -148,6 +148,21 @@
         </entry>
       </map>
     </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="pythagoras" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
@@ -171,9 +186,9 @@
       <screen x="2048" y="-913" width="3840" height="2137" />
     </state>
     <state width="3798" height="401" key="GridCell.Tab.0.right/2048.-913.3840.2137/37.23.2011.1257@2048.-913.3840.2137" timestamp="1606081408051" />
-    <state x="3129" y="-105" key="Vcs.Push.Dialog.v2" timestamp="1606083305708">
+    <state x="3129" y="-105" key="Vcs.Push.Dialog.v2" timestamp="1606083688630">
       <screen x="2048" y="-913" width="3840" height="2137" />
     </state>
-    <state x="3129" y="-105" key="Vcs.Push.Dialog.v2/2048.-913.3840.2137/37.23.2011.1257@2048.-913.3840.2137" timestamp="1606083305708" />
+    <state x="3129" y="-105" key="Vcs.Push.Dialog.v2/2048.-913.3840.2137/37.23.2011.1257@2048.-913.3840.2137" timestamp="1606083688630" />
   </component>
 </project>
