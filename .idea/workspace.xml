@@ -25,9 +25,7 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b4d0d69c-8f8b-477d-8d9d-2021ac2a71cf" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/math.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/math.class.php" afterDir="false" />
-    </list>
+    <list default="true" id="b4d0d69c-8f8b-477d-8d9d-2021ac2a71cf" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -150,6 +148,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="3660" y="-195" key="#PHP" timestamp="1606081283781">
@@ -172,5 +171,9 @@
       <screen x="2048" y="-913" width="3840" height="2137" />
     </state>
     <state width="3798" height="401" key="GridCell.Tab.0.right/2048.-913.3840.2137/37.23.2011.1257@2048.-913.3840.2137" timestamp="1606081408051" />
+    <state x="3129" y="-105" key="Vcs.Push.Dialog.v2" timestamp="1606083305708">
+      <screen x="2048" y="-913" width="3840" height="2137" />
+    </state>
+    <state x="3129" y="-105" key="Vcs.Push.Dialog.v2/2048.-913.3840.2137/37.23.2011.1257@2048.-913.3840.2137" timestamp="1606083305708" />
   </component>
 </project>
